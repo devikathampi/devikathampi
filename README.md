@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/devikathampi)
 
-- 📝 I write articles on [Medium Blog](https://devikathampi.medium.com/)
+- 📝 I write articles on [Medium](https://devikathampi.medium.com/)
 
 - 📫 How to reach me **devikathampi99@gmail.com**
 

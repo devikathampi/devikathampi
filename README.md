@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I ❤️ dancing and dogs**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - <a href ="https://devikathampi.medium.com/simplifyingdocker-65f4989dea34" target="_blank"> Simplifying Docker </a>
 <!-- BLOG-POST-LIST:END -->

@@ -13,7 +13,7 @@
 
 - 👨‍💻 Find out more about me at [My Website](https://devikathampi.github.io/)
 
-- ⚡ Fun fact **I ❤️ dancing and dogs**
+- ⚡ Fun fact **I ❤️ dancing and doggos**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->

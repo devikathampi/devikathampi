@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **devikathampi99@gmail.com**
 
-- 👨‍💻 Find out more about me at [My Website](https://devikathampi.github.io/)
-
 - ⚡ Fun fact **I ❤️ dancing and doggos**
 
 
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/devikathampi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devikathampi" height="30" width="40" /></a>
 <a href="https://instagram.com/swissyogurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swissyogurt" height="30" width="40" /></a>
-<a href="https://medium.com/@devikathampi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devikathampi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

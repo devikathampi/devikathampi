@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET Core and Angular**
 
-- 📄 I'm currently reading **3D MRI brain tumor segmentation using autoencoder regularization**
+- 📄 I'm currently reading a paper on **3D MRI brain tumor segmentation using autoencoder regularization**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/devikathampi)
 
@@ -18,5 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/devikathampi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devikathampi" height="30" width="40" /></a>
 <a href="https://instagram.com/swissyogurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swissyogurt" height="30" width="40" /></a>
+<a href="https://devpost.com/devikathampi" target="blank"><img align="center" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="devikathampi" height="30" width="40" /></a>
 </p>
 

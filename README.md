@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **.NET Core and Angular**
 
-- 📄 I'm currently reading a paper on **3D MRI brain tumor segmentation using autoencoder regularization**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/devikathampi)
 
 - 📫 How to reach me **devikathampi99@gmail.com**

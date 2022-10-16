@@ -1,7 +1,9 @@
 <h1 align="center">Hello World, I'm Devika Thampi </h1>
 <h3 align="center">I try to code and build stuff and it ends up in here 😉</h3>
 
-- 🌱 I’m currently learning **.NET Core and Angular**
+- 👨‍💻 Read more about me at [My Website](https://devikathampi.netlify.app/)
+
+- 🌱 I’m currently working with **.NET and Angular**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/devikathampi)
 

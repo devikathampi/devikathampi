@@ -15,6 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devikathampi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devikathampi" height="30" width="40" /></a>
-<a href="https://devpost.com/devikathampi" target="blank"><img align="center" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="devikathampi" height="30" width="40" /></a>
+<a href="https://devpost.com/devikathampi" target="blank"><img align="center" src="https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg" alt="devikathampi" height="30" width="40" /></a>
 </p>
 
